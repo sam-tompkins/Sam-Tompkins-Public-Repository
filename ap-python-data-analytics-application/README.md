@@ -5,7 +5,9 @@ cleaned (e.g. removal of white spaces, data type standardisation etc) and
 re-saved, before being loaded into the data analytics window. Here, the 
 dataset can be manipulated, averages calculated, and visualisations displayed. 
 
-Pandas, Tkinter, NumPy, Seaborn, Matplotlib libraries are required. 
+Pandas, Tkinter, NumPy, Seaborn, Matplotlib libraries are required.
+
+Requires an environment able to run Jupyter Notebooks with Python 3.10.9.
 
 Dataset must have valid headers.
 
