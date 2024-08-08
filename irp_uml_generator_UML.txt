@@ -1,0 +1,14 @@
+@startuml
+class LSTM_Model {
+    forward()
+    create_sequence()
+    trainer()
+    predictor()
+        hidden_layer
+    num_layers
+    lstm
+    dropout
+    linear_layer
+    __init__()
+}
+@enduml
